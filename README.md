@@ -1,5 +1,12 @@
 # Markdown Workshop
+
 A repository containing material to explain the Markdown format
+
+> [!TIP]
+> (GitHub) Markdown is used for writing and rendering documentation on Github, as well as write comments, issues, and pull requests.
+
+> [!NOTE]
+> You can recognize Markdown files by their `.md` file extension.
 
 Full documentation and examples for the following concepts can be found in the [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
