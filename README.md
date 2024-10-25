@@ -59,8 +59,6 @@ public class HelloWorld {
 | Row 2    | Row 2    | Row 2    |
 | Row 3    | Row 3    | Row 3    |
 
-## Example for images
-
 ## Example for alerts
 
 > [!NOTE]
@@ -88,6 +86,11 @@ public class HelloWorld {
 <summary>Click to expand!</summary>
 This is hidden content that can be shown when the user clicks on the title.
 </details>
+
+## Example for images
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Octocat](./images/github-octocat.png)
 
 ## Example for diagrams
 
