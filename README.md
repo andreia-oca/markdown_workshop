@@ -89,8 +89,8 @@ This is hidden content that can be shown when the user clicks on the title.
 
 ## Example for images
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-![Octocat](./images/github-octocat.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){ width=50px }
+![Octocat](./images/github-octocat.png){ width=50px }
 
 ## Example for diagrams
 
