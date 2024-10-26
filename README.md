@@ -28,11 +28,33 @@ Other fun stuff:
 - Tables of contents
 
 
+**Bold**
+*Italics*
+~~Strikethrought~~
+
+- Item 1
+- Item 2
+
+* Item 3
+* Item 4
+
+1. Item 1
+2. Item 2
+
+- [x] Task 1
+- [ ] Task 2
+
+This is a [hyperlink](https://github.com/rosedu/workshop-markdown/tree/main).
+
 ## Example for quotes
 
 > This is a quote
 
-Typewriter font: `This is a quote`, `filename.txt`, `command`, `echo "Hello, World!"`
+Typewriter font: `This is a quote`, `filename.txt`, `command`, `echo "Hello, World!"`, `cat file.txt`.
+
+```python
+print("Hello)
+```
 
 ```python
 def hello_world():
@@ -65,7 +87,7 @@ public class HelloWorld {
 > Useful information that users should know, even when skimming content.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Hsmdkasdy.
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
@@ -89,8 +111,11 @@ This is hidden content that can be shown when the user clicks on the title.
 
 ## Example for images
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Github Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ![Octocat](./images/github-octocat.png)
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 
 ## Example for diagrams
 
@@ -121,4 +146,4 @@ sequenceDiagram
 4. [Example for alerts](#example-for-alerts)
 5. [Example for emojis](#example-for-emojis)
 6. [Example for collapsible sections](#example-for-collapsible-sections)
-7. [Example for diagrams](#example-for-diagrams)
+7. [Example for diagrams](#examplefordiagrams)
